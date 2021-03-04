@@ -1,2 +1,2 @@
 # helloDB
-Spring JDBC practice
+Simple Spring JDBC practice
